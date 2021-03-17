@@ -1,0 +1,19 @@
+all: main
+
+main: stack.o getch.o getop.o main.o
+	g++ -Wall -o main stack.o getch.o getop.o main.o
+
+main.o: main.cpp
+	g++ -c -Wall main.cpp
+
+stack.o: stack.cpp
+	g++ -c -Wall stack.cpp
+
+getch.o: getch.cpp
+	g++ -c -Wall getch.cpp
+
+getop.o: getop.cpp
+	g++ -c -Wall getop.cpp
+
+clean:
+	del *o
