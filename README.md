@@ -15,3 +15,19 @@
 1.  Download main.cpp, stack.cpp, getch.cpp, getop.cpp calc.h and makeFile files from root folder.
 2. Open command prompt and loacte your working directory to the directory where these files are saved.
 3. Use command `make` and `make clean` you will get the executable file `main.exe`.   
+
+
+
+
+####################################################################################################
+
+#              Assignment on: Compiling multiple source files into a single executable
+
+                              ID          : 1705003
+                              Reg         : 000009970
+                              Name        : Md. Jobaidul Islam
+                              Session     : 2017-2018
+                              Depertment  : Computer Science and Engineering.
+                              University  : Begum Rokeya University, Rangpur.
+
+####################################################################################################
