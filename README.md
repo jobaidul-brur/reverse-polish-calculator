@@ -11,7 +11,7 @@
 2. Open command prompt and loacte your working directory to the directory where these files are saved.
 3. Use command `g++ -o main stack.o getch.o getop.o main.o` to get `main.exe` file
       
-### II. Using source cose (requirement: gnu compiler and make utility installed)
+### II. Using source cose (requirements: gnu compiler and make utility installed)
 1.  Download main.cpp, stack.cpp, getch.cpp, getop.cpp calc.h and makeFile files from root folder.
 2. Open command prompt and loacte your working directory to the directory where these files are saved.
 3. Use command `make` and `make clean` you will get the executable file `main.exe`.   
@@ -19,7 +19,7 @@
 
 
 
-####################################################################################################
+##################################################################################
 
 #              Assignment on: Compiling multiple source files into a single executable
 
@@ -30,4 +30,5 @@
                               Depertment  : Computer Science and Engineering.
                               University  : Begum Rokeya University, Rangpur.
 
-####################################################################################################
+##################################################################################
+
