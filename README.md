@@ -16,12 +16,19 @@
 2. Open command prompt and loacte your working directory to the directory where these files are saved.
 3. Use command `make` and `make clean` you will get the executable file `main.exe`.   
 
+.
+.
+.
+.
+
+
+
 
 
 
 ##################################################################################
 
-#              Assignment on: Compiling multiple source files into a single executable
+##              Assignment on: Compiling multiple source files into a single executable
 
                               ID          : 1705003
                               Reg         : 000009970
