@@ -22,7 +22,7 @@
 \
 ##################################################################################
 
-##              Assignment on: Compiling multiple source files into a single executable
+##              Assignment on: Compiling multiple source files into a single executable file
 
                               ID         : 1705003
                               Reg        : 000009970
