@@ -24,12 +24,12 @@
 
 ##              Assignment on: Compiling multiple source files into a single executable
 
-                              ID          : 1705003
-                              Reg         : 000009970
-                              Name        : Md. Jobaidul Islam
-                              Session     : 2017-2018
-                              Depertment  : Computer Science and Engineering.
-                              University  : Begum Rokeya University, Rangpur.
+                              ID         : 1705003
+                              Reg        : 000009970
+                              Name       : Md. Jobaidul Islam
+                              Session    : 2017-2018
+                              Department : Computer Science and Engineering.
+                              University : Begum Rokeya University, Rangpur.
 
 ##################################################################################
 
